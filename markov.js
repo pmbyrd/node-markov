@@ -42,7 +42,6 @@ class MarkovMachine {
     }
     return output.join(" ");
   }
-
 }
 
 let mm = new MarkovMachine("the cat in the hat");
